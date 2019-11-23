@@ -1,5 +1,7 @@
 ## Online Shop using React
-Tools used
+Typical online store with gallery, shopping cart, checkout and order history
+
+### Tools used
 1. React Hooks
 2. React Router
 3. Form validation

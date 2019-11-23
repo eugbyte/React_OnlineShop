@@ -1,0 +1,10 @@
+.Left {
+    position: relative;
+    display: block;
+    margin-left: 10px;
+}
+
+.TopBottom {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

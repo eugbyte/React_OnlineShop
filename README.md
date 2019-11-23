@@ -7,7 +7,7 @@ https://onlineshop-6116a.firebaseapp.com/
 1. React Hooks
 2. React Router
 3. Form validation
-4. REST APIs using FireBase
+4. REST APIs using Firebase
 
 
 ### `npm start` to run the project
